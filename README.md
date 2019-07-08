@@ -1,0 +1,1 @@
+This respository for practical exercise5.It consists of 6 programs.I use methods and call that method in main class.I use collection such as List,Set,Hashmap.Then use comparator interface for sorting.
